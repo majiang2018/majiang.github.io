@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World!</title>
-    <url>/posts/HelloWorld/</url>
-    <content><![CDATA[<p>Hello World!</p>
-<span id="more"></span>
-
-<p>我的第一个C语言程序：Hello World！</p>
-<figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="type">void</span> <span class="title function_">main</span><span class="params">()</span></span><br><span class="line">&#123;</span><br><span class="line"> <span class="comment">//我的第一个C语言程序</span></span><br><span class="line"> <span class="built_in">printf</span>(<span class="string">&quot;Hello World！\n&quot;</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>日记</category>
-      </categories>
-      <tags>
-        <tag>Hello World!</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>创建个人免费博客</title>
     <url>/posts/%E5%88%9B%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%85%8D%E8%B4%B9%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<p>创建个人免费博客</p>
